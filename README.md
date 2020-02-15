@@ -2,10 +2,10 @@
 
 Linux Command-Line\
 make main - compiles the code and provide a program output\
-make run - runs the code\
+make run - runs the code
 
 a. How you tested your solution\
-I ran my program and inputted a range of data and I had an expected result and then I compared that to the actual result. \
+I ran my program and inputted a range of data and I had an expected result and then I compared that to the actual result. 
  
 b. Any interesting coding, design, or algorithmic choices you’d like to point out \
 I split up the code into three parts. One class for the prompt, another for the session, and then an URL class. \
